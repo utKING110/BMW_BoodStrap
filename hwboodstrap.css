@@ -1,0 +1,43 @@
+.bmwImage {
+  max-height: 100%;
+  object-fit: contain;
+}
+#zagolovok {
+  padding-top: 30px;
+  text-align: center;
+}
+.footer {
+  background-color: #00008b;
+  padding: 20px 0;
+  border-top: 1px solid #e9ecef;
+}
+
+.footer p {
+  margin-bottom: 0;
+}
+
+.footer ul li a {
+  color: whitesmoke;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer ul li a:hover {
+  color: #007bff;
+}
+#company {
+  color: whitesmoke;
+}
+body {
+  font-family: "Nunito", sans-serif;
+
+  font-family: "Pacifico", cursive;
+
+  font-family: "Rajdhani", sans-serif;
+
+  font-family: "Roboto Condensed", sans-serif;
+}
+.telo {
+  margin-left: 25px;
+  margin-right: 25px;
+}
